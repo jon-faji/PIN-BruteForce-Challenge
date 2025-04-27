@@ -17,4 +17,4 @@ Python script that brute-forces a local web server protected by a 3-digit PIN us
 - Implement rate limiting, CAPTCHA, account lockouts after failed attempts.
 
 ## Video Tutorial
-[YouTube Link or Embedded Link]
+https://youtu.be/OWQHqf1Hv0Y
